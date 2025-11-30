@@ -13,7 +13,7 @@ init(autoreset=True)
 WORDLIST = [
     'www', 'mail', 'ftp', 'webmail', 'smtp', 'ns1', 'ns2', 
     'admin', 'test', 'portal', 'secure', 'vpn', 'blog', 
-    'dev', 'api', 'm', 'shop'
+    'dev', 'api', 'm', 'shop', 'home'
 ]
 
 class DNSEnumerator:
@@ -125,3 +125,4 @@ if __name__ == "__main__":
     enumerator = DNSEnumerator(domain)
     enumerator.enumerate()
     enumerator.save_results()
+
