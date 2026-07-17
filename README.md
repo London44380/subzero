@@ -1,6 +1,6 @@
 DNS Enumeration Tool
 
-Updated June 2026
+Updated July 2026
 
 This tool is provided strictly for educational, research, and testing purposes on controlled environments only.  
 Any misuse or deployment on unauthorized targets is strictly prohibited.  
