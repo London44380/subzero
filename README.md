@@ -1,5 +1,7 @@
 DNS Enumeration Tool
 
+![demo](docs/demo.gif)
+
 Updated July 2026
 
 This tool is provided strictly for educational, research, and testing purposes on controlled environments only.  
